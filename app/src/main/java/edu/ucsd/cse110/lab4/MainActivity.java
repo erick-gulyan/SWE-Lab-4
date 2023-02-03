@@ -49,5 +49,8 @@ public class MainActivity extends AppCompatActivity {
 
         intent.putExtra("max_count", maxCount);
         startActivity(intent);
+
+
+
     }
 }
